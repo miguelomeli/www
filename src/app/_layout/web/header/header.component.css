@@ -1,0 +1,11 @@
+.header{width: 100%; background: black; color: #fff; font-size: 14px; height: 120px;}
+.header li{ float: left; padding: 5px 20px 5px 20px;text-decoration: none; list-style: none;}
+
+li{
+  cursor: pointer;
+}
+
+
+.menuActive{
+  color: aqua;
+}
